@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/d-h-k/mockupJS#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "expressjs": "^1.0.1"
   }
 }
